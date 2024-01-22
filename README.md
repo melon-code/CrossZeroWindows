@@ -3,4 +3,4 @@ This tic-tac-toe windows game is made with [CrossZeroAPI](https://github.com/mel
 
 Game loop and user interface are achieved with `WinForms` tools.
 
-The game provides an option to choose game field size and type of players (computer or player).
+The game provides options to choose game field size and type of players (computer or player).
